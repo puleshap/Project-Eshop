@@ -28,11 +28,3 @@ It provides robust functionalities for managing users, products, and transaction
 
 ---
 
-### 🛠️ Technologies Used  
-- **Frontend:** [Specify framework, e.g., React.js, Angular, or HTML/CSS/JS]  
-- **Backend:** [Specify backend technology, e.g., Node.js, Django, Spring Boot]  
-- **Database:** [Specify, e.g., MySQL, PostgreSQL, MongoDB]  
-- **Authentication:** [Specify method, e.g., JWT, OAuth]  
-- **Charting Library:** [E.g., Chart.js, D3.js]  
-
----
