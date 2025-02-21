@@ -27,6 +27,6 @@ It provides robust functionalities for managing users, products, and transaction
 - **Issue Resolution:** Review and resolve reports submitted by users.  
 
 ---
-![E-Shop Homepage](homepage.png)
-![Admin Dashboard](admin_dashboard.png)
-
+![Homepage](home.jpg)
+![MyProducPage](product.jpg)
+![AdminMainPage](admin.png)
